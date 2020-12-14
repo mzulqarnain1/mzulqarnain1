@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzulqarnain1&custom_title=My Stats&show_icons=true&theme=light&hide=stars&count_private=true&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzulqarnain1&custom_title=Contributions &show_icons=true&theme=dark&hide=stars&count_private=true&include_all_commits=true" />
 
 <!--
 **mzulqarnain1/mzulqarnain1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
