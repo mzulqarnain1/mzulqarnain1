@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React and Redux.
 - 💻 I'm actively building products.
 - 💬 Ask me about Python, React or any tech related stuff.
-- 📫 How to reach me: [Linkedin - @mzulqarnain1](https://www.linkedin.com/in/mzulqarnain1/) , [Twitter - @__chaudhary__](https://twitter.com/__chaudhary__)
+- 📫 How to reach me: [Linkedin - @mzulqarnain1](https://www.linkedin.com/in/mzulqarnain1/) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a big fan of Astronomy.
 
