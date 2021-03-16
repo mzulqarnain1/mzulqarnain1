@@ -1,7 +1,5 @@
 ### Hi there, I'm M. Zulqarnain 👋
 
-### Hola, I'm Asad Manzoor! 👋
-
 - 🔭 I’m currently working for edX.
 - 🌱 I’m currently learning React and Redux.
 - 💻 I'm actively building products.
