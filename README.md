@@ -1,7 +1,7 @@
 ### Hi there, I'm M. Zulqarnain 👋
 
-- 🔭 I’m currently working for edX.
-- 🌱 I’m currently learning NodeJS.
+- 🔭 I’m currently working as a Flask/FastAPI/React Developer
+- 🌱 I’m currently learning Typescript.
 - 💬 Ask me about Python, AWS or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @mzulqarnain1](https://www.linkedin.com/in/mzulqarnain1/) 
 - 😄 Pronouns: He/His
