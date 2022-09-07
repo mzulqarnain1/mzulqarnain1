@@ -1,13 +1,12 @@
 ### Hi there, I'm M. Zulqarnain 👋
 
-- 🔭 I’m currently working as a Flask / FastAPI / ReactJS Developer
+- 🔭 I’m currently working as a Django / FastAPI / ReactJS Developer
 - 🌱 I’m currently learning Typescript.
-- 💬 Ask me about Python, AWS or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @mzulqarnain1](https://www.linkedin.com/in/mzulqarnain1/) 
 
 
-### Here are some stats about my Github Contributions
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzulqarnain1&custom_title=Contributions &show_icons=true&theme=dark&hide=stars&count_private=true&include_all_commits=true" />
+### Here are some stats about my Github contributions
+[![Zulqarnains's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzulqarnain1&show_icons=true&theme=radical)](https://github.com/mzulqarnain1/github-readme-stats)
 
 
 **Languages and Tools:**  
